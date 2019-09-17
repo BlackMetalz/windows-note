@@ -47,3 +47,5 @@ Do you want to start the cron daemon as a service now? (yes/no) yes
 OK. The cron daemon is now running.
 
 # Last step: do it as in linux cause ssh and rsync already setup. Im too lazy to write fully description :v
+
+- Note: Port default of cygwin sshd is 22 ( remember to allow it in firewall with specific IP )
