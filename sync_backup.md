@@ -19,7 +19,9 @@ after that Setup open ssh and cron by
 - cron-config
 The cron daemon can run as a service or as a job. The latter is not recommended.
 Do you want to install the cron daemon as a service? (yes/no) yes
+
 Enter the value of CYGWIN for the daemon: [ ] ntsec
+
 You must decide under what account the cron daemon will run.
 If you are the only user on this machine, the daemon can run as yourself.
    This gives access to all network drives but only allows you as user.
@@ -35,7 +37,9 @@ Do you want the cron daemon to run as yourself? (yes/no) no
 
 Were the passwords of all cron users saved with "passwd -R", or
 are you using the cyglsa package ? (yes/no) no
+
 Do you want to use another privileged account name? (yes/no) no
+
 Do you want to proceed anyway? (yes/no) yes
 
 Running cron_diagnose ...
