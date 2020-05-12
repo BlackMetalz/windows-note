@@ -30,6 +30,11 @@ get the part of secret and add it in google authenticator or oathtool to get "OT
 after done, click test multi OTP authentication....
 If everything going well, you will see your account input activated
 
+2.1 Add exists key to multiple OTP ( good for clone :D )
+```
+multiotp.exe -createga Administrator GUN6ORWZWO77BNXESXOLWPFYOQ45YMEV
+```
+
 3. Test it by login again, you will see your login will required OTP together with your password
 
 Good luck on protect your public windows server
