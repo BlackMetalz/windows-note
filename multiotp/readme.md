@@ -3,7 +3,7 @@
 1. Download binary from https://github.com/multiOTP/multiOTPCredentialProvider/releases
 
 2. Run exe file...
-- Leave following blank
+- Leave following blank: Update sep 06 2021: https://github.com/multiOTP/multiOTPCredentialProvider/issues/42
 ```
 Url of your multiOTP server
 Secret shared with your multiotp servers 
